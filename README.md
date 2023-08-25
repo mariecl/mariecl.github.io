@@ -1,5 +1,3 @@
-# Hi, my name is Marie Clemessy
-I am a **senior software developer** focused on building maintainable and delightful **Android** applications.
+# Hi, I'm Marie Clemessy
 
-
-- This site is a Work in Progress
+I am a **senior software developer** focused on building maintainable and delightful **Android** applications since **2018**.

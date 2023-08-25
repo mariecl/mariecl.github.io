@@ -1,7 +1,7 @@
 ---
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: home
-layout: default-2
+layout: default
 ---
 
 ## Hi, I'm Marie Clemessy _(she/her)_
